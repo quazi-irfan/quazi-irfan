@@ -6,4 +6,4 @@ Here is my [résumé](https://github.com/quazi-irfan/quazi-irfan/raw/main/Quazi%
 
 Contact: quazirfan@gmail.com
 
-[![quazi-irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quazi-irfan&show_icons=true)](https://github.com/quazi-irfan?hide_rank=false)
+[![quazi-irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quazi-irfan&show_icons=true)](https://github.com/quazi-irfan?hide_rank=true)
