@@ -2,7 +2,7 @@ Hello, my name is Quazi Irfan. I have graduated from South Dakota State Universi
 
 Currenlty I am looking for job as a Data Scientist(or related position). 
 
-Here is my [résumé](https://github.com/quazi-irfan/quazi-irfan/blob/main/resume.pdf).
+Here is my [résumé](https://github.com/quazi-irfan/quazi-irfan/raw/main/resume.pdf).
 
 Contact: quazirfan@gmail.com
 
