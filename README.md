@@ -1,12 +1,10 @@
-Hello, my name is Quazi Irfan. I have graduated from South Dakota State University with a Master's in Statistics in Fall 2021. I've completed my Bachelor's degree in Computer Science from the same university.
+Hello, my name is Quazi Irfan. I have graduated from South Dakota State University with a Master's in Statistics in Fall 2021. I've completed my Bachelor's degree in Computer Science from the same university in Summer 2018.
 
 Currenlty I am looking for job as a Data Scientist(or related position). 
 
 Here is my [résumé](https://github.com/quazi-irfan/quazi-irfan/blob/main/resume.pdf).
 
 Contact: quazirfan@gmail.com
-
-[![quazi-irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quazi-irfan&show_icons=true&hide_rank=true&disable_animations=true)](https://github.com/quazi-irfan)
 
 # Notatble Projects
  - [Implemented  breadth first search path finding algorithm](https://github.com/quazi-irfan/RoverMapping)
@@ -17,3 +15,6 @@ Contact: quazirfan@gmail.com
  - [Developed assembler for SIC-XE instruction set in Java](https://github.com/quazi-irfan/SIC-XE-Assembler)
  - [Developed Ada to 16bit Intel 8086 compiler using recursive descent parser generating three address code](https://github.com/quazi-irfan/Mini-Ada-Compiler)
  - [Built 2d Asteroid like game using Java 2d featuring AABB collision detection](https://github.com/quazi-irfan/2d-Side-scroller-Java2D)
+ 
+ 
+[![quazi-irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quazi-irfan&show_icons=true&hide_rank=true&disable_animations=true)](https://github.com/quazi-irfan)
