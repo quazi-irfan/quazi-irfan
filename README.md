@@ -6,7 +6,7 @@ Here is my [résumé](https://github.com/quazi-irfan/quazi-irfan/blob/main/resum
 
 Contact: quazirfan@gmail.com
 
-# Notatble Projects
+# Notable Projects
  - [Implemented  breadth first search path finding algorithm](https://github.com/quazi-irfan/RoverMapping)
  - [Implemented Jaro–Winkler string distance algorithm to detect similar assignment submissions](https://github.com/quazi-irfan/CSC-314-AutomationScripts)
  - [Researched Particle Swarm Optimization algorithm and implemented vanilla PSO in Julia and Python](https://github.com/quazi-irfan/Particle-Swarm-Algorithm-Julia-Language-Google-Summer-of-Code-Application-2021/blob/main/GSoC_2021_Julia_PSO_Application.pdf)
