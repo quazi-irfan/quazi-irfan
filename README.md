@@ -13,6 +13,3 @@ Contact: quazirfan@gmail.com
  - [Developed assembler for SIC-XE instruction set in Java](https://github.com/quazi-irfan/SIC-XE-Assembler)
  - [Developed Ada to 16bit Intel 8086 compiler using recursive descent parser generating three address code](https://github.com/quazi-irfan/Mini-Ada-Compiler)
  - [Built 2d Asteroid like game using Java 2d featuring AABB collision detection](https://github.com/quazi-irfan/2d-Side-scroller-Java2D)
- 
- 
-[![quazi-irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quazi-irfan&show_icons=true&hide_rank=true&disable_animations=true)](https://github.com/quazi-irfan)
